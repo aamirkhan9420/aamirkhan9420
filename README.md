@@ -1,4 +1,4 @@
-<div align="center" width="500px" height="300px">
+<div align="center" width="500" height="300">
 <img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-140/Full-Stack-Web-Developer-500x400-1.png" width="100%"  align="center"/>
   </div>
 <h1 align="center">Hi 👋, I'm Aamir Khan</h1>
