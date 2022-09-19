@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Aamir Khan</h1>
 Aspiring Full-Stack Developer is adept in
 Masai School. skilled in database integration, I
 have completed mechanical engineering
@@ -10,7 +10,7 @@ Developer positions in your company.
 <div align="center" width="300" >
 <img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-140/Full-Stack-Web-Developer-500x400-1.png" width="80%" height="40%" align="center"/>
   </div>
-<h1 align="center">Hi 👋, I'm Aamir Khan</h1>
+
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirkhan9420&label=Profile%20views&color=0e75b6&style=flat" alt="aamirkhan9420" /> </p>
