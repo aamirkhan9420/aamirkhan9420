@@ -1,4 +1,4 @@
-<img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-140/Full-Stack-Web-Developer-500x400-1.png"   align="center" />
+<img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-140/Full-Stack-Web-Developer-500x400-1.png"   align="center" margin-left="200px"/>
 <h1 align="center">Hi 👋, I'm Aamir Khan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
