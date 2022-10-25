@@ -5,7 +5,7 @@ have completed mechanical engineering
 from North Maharashtra University and have
 6 months of learning experience in web
 development. I am seeking Full-Stack
-Developer positions in your company.
+Developer positions in an organisation.
 
 <div align="center" width="300" >
 <img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-140/Full-Stack-Web-Developer-500x400-1.png" width="80%" height="40%" align="center"/>
