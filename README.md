@@ -31,7 +31,7 @@ Developer positions in an organisation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/aamirkhanz9373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aamirkhanz9373" height="30" width="40" /></a>
+<a href="https://twitter.com/aamirkhanz9373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aamirkhanz9373" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aamir-khan-26899024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aamir-khan-26899024b/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aamirkhan9420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aamirkhan9420" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100027938010996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027938010996" height="30" width="40" /></a>
