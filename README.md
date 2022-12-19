@@ -17,7 +17,7 @@ Developer positions in an organisation.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirkhan9420" alt="aamirkhan9420" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aamirkhanz9373" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aamirkhanz9373?logo=twitter&style=for-the-badge" alt="https://twitter.com/aamirkhanz9373" /></a> </p>
+
 
 - 🌱 I’m currently learning **React**
 
